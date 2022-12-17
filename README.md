@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Tomer gavia
-- 👀 I’m interested in ...
+- 👋 Hi, I’m Tomer Gavia
+- 👀 I’m interested in Music, Sports, Travels And Food
 - 🌱 I’m currently learning Data analyst & BI
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 
 
 <!---
 Tgavia1/Tgavia1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
